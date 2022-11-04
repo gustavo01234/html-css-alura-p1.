@@ -2,8 +2,16 @@ body{
    background: #cccccc
 }
 
+h1{
+   text-align: center
+}
+
 P{
    text-align: center;
+}
+
+#m{
+   font-size: 20px
 }
 
 em strong{
