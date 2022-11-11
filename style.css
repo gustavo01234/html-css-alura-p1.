@@ -1,9 +1,13 @@
 body{
-   background: #cccccc
+   
 }
 
 #b{
    width: 100%;
+}
+
+.principal{
+   background: #cccccc
 }
 
 h1{
@@ -28,5 +32,9 @@ em strong{
 
 .benefícios{
    background: #FFFFFF;
+}
+
+h2{
+  text-align: center;
 }
 
